@@ -7,7 +7,7 @@ I'm a third-year **Computing Science** student at **Simon Fraser University*, lo
 | Project | What it is | Stack |
 |---|---|---|
 | [**TLS Chat App**](https://github.com/HasanLadak/CMPT371_A3_ChatApp) | Multi-client group chat on raw TCP sockets with TLS encryption, a threaded server and a desktop GUI | Python · sockets · ssl · threading · tkinter |
-| [**WebTrace AI**](https://github.com/HasanLadak/webtraceai) | Classifies website screenshots as AI-generated or human-designed (team project; I built the dataset) | Python · scikit-learn · OpenCV · FastAPI · React |
+| [**WebTrace AI**](https://github.com/HasanLadak/webtraceai) | ML system that classifies website screenshots as AI-generated or human-designed (CMPT 310 team project) | Python · scikit-learn · OpenCV · FastAPI · React |
 
 ### Tools I work with
 
