@@ -1,6 +1,6 @@
 ## Hi, I'm Hasan 👋
 
-I'm a third-year **Computing Science** student at **Simon Fraser University*, looking for **co-op opportunities**. I like building things end to end, from low-level networking in Python and C to ML-backed web apps.
+I'm a third-year **Computing Science** student at **Simon Fraser University**, looking for **co-op opportunities**. I like building things end to end, from low-level networking in Python and C to ML-backed web apps.
 
 ### Projects
 
